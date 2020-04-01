@@ -12,8 +12,8 @@
         </div>
       </div>
       <div class="md:w-2/3">
-        <p class="text-gray-600 uppercase text-xs tracking-wide font-bold">Text: {{text}}</p>
-        <p class="text-gray-600 uppercase text-xs tracking-wide font-bold">Date: {{date}}</p>
+        <p class="text-gray-600 text-xs tracking-wide font-bold"><span class="uppercase">Text: </span>{{text}}</p>
+        <p class="text-gray-600 text-xs tracking-wide font-bold"><span class="uppercase">Date: </span>{{date}}</p>
       </div>
     </form>
   </div>
