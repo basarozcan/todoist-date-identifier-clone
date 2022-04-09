@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "^4.4.6",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "vue": "^2.6.11",
     "vue-moment-lib": "1.2.2"
   },
